@@ -1,9 +1,4 @@
 {
-    "Result": {
-        "Status": 200,
-        "Success": true,
-        "Reason": "OK"
-    },
     "Data": [
         {
             "customerID": "CHA_1",
