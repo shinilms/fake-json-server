@@ -1,69 +1,22 @@
-{
-    "Data": [
-        {
-            "customerID": "CHA_1",
-            "companyName": "Arom Constructors",
-            "companyNumber": "9840937933",
-            "gstNumber": "32AANCS7498C1Z0",
-            "firstName": "Arun",
-            "lastName": "Joseph",
-            "nickName": "AJ",
-            "primaryContact": "9020937600",
-            "seconadryContact": "9020937988",
-            "email": "JNJ@gmail.com",
-            "remarks": "Nill",
-            "alert": "payment pending",
-            "isActive": false,
-            "siteDetails": []
-        },
-        {
-            "customerID": "PAR_2",
-            "companyName": "Edappalli Constructors",
-            "companyNumber": "9840937933",
-            "gstNumber": "32AANCS7498C1Z0",
-            "firstName": "Jerin",
-            "lastName": "Joseph",
-            "nickName": "JJ",
-            "primaryContact": "9020937900",
-            "seconadryContact": "9020937988",
-            "email": "JNJ@gmail.com",
-            "remarks": "Nill",
-            "alert": "payment pending",
-            "isActive": false,
-            "siteDetails": []
-        },
-        {
-            "customerID": "PAR_1",
-            "companyName": "Sivaji Constructors",
-            "companyNumber": "9840937933",
-            "gstNumber": "32AANCS7498C1Z0",
-            "firstName": "Jess",
-            "lastName": "Joseph",
-            "nickName": "JNJ",
-            "primaryContact": "9020937988",
-            "seconadryContact": "9020937988",
-            "email": "JNJ@gmail.com",
-            "remarks": "",
-            "alert": "",
-            "isActive": false,
-            "siteDetails": [
-                {
-                    "siteID": 1,
-                    "siteName": "Site_Sivaji Constructors",
-                    "customerID": "PAR_1",
-                    "pConactName": "SivRaj",
-                    "pContactNumber": "981312313",
-                    "pAlternativeNumber": "9754171990",
-                    "sContactName": "Marji",
-                    "sContactNumber": "988212212",
-                    "sAlternativeNumber": "",
-                    "street": "Kannammola",
-                    "po": "Nill",
-                    "landmark": "Near Kanal",
-                    "location": "",
-                    "isActive": true
-                }
-            ]
-        }
-    ]
-}
+[
+    {
+        "name": "Arsenal FC",
+        "national": false,
+        "country_name": "England"
+    },
+    {
+        "name": "FC Barcelona",
+        "national": false,
+        "country_name": "Spain"
+    },
+    {
+        "name": "Sweden",
+        "national": true,
+        "country_name": "Sweden"
+    },
+    {
+        "name": "Inter Milan",
+        "national": false,
+        "country_name": "Italy"
+    }
+]
